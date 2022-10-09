@@ -1,0 +1,1001 @@
+title,author,avg_rating,reviews,year,genre
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62149,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62149,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62149,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62149,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62149,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62149,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62149,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62149,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62149,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62149,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62149,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62149,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62150,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62150,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62150,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62150,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62150,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62150,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62150,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
+a brief history of time paperback,stephen hawking,4.20,373271,1988,science
+a short history of nearly everything paperback,bill bryson,4.20,346861,2003,science
+the selfish gene paperback,richard dawkins,4.15,160598,1976,science
+astrophysics for people in a hurry hardcover,neil degrasse tyson,4.08,145717,2017,science
+cosmos mass market paperback,carl sagan,4.38,132389,1980,science
+sapiens a brief history of humankind paperback,yuval noah harari,4.39,767393,2011,science
+the immortal life of henrietta lacks hardcover,rebecca skloot,4.09,660633,2010,science
+what if serious scientific answers to absurd hypothetical questions what if 1,randall munroe,4.14,150151,2014,science
+the origin of species hardcover,charles darwin,3.99,107581,1859,science
+the elegant universe superstrings hidden dimensions and the quest for the ultimate theory paperback,brian greene,4.08,92746,1999,science
+the demonhaunted world science as a candle in the dark paperback,carl sagan,4.27,66666,1996,science
+stiff the curious lives of human cadavers paperback,mary roach,4.05,195378,2003,science
+surely youre joking mr feynman adventures of a curious character paperback,richard p. feynman,4.26,181787,1985,science
+the gene an intimate history hardcover,siddhartha mukherjee,4.35,41068,2016,science
+the emperor of all maladies a biography of cancer hardcover,siddhartha mukherjee,4.31,91150,2010,science
+the sixth extinction an unnatural history hardcover,elizabeth kolbert,4.14,60409,2014,science
+the grand design hardcover,stephen hawking,4.05,69372,2010,science
+guns germs and steel the fates of human societies paperback,jared diamond,4.04,359065,1997,science
+the disappearing spoon and other true tales of madness love and the history of the world from the periodic table of the elements hardcover,sam kean,3.92,46233,2010,science
+the man who mistook his wife for a hat and other clinical tales paperback,oliver sacks,4.06,192818,1985,science
+the greatest show on earth the evidence for evolution hardcover,richard dawkins,4.15,51604,2009,science
+why we sleep unlocking the power of sleep and dreams hardcover,matthew walker,4.38,134292,2017,science
+the god delusion hardcover,richard dawkins,3.90,253123,2006,science
+the fabric of the cosmos space time and the texture of reality paperback,brian greene,4.11,36784,2003,science
+seven brief lessons on physics hardcover,carlo rovelli,3.97,47392,2014,science
+thinking fast and slow hardcover,daniel kahneman,4.17,402771,2011,science
+packing for mars the curious science of life in the void paperback,mary roach,3.94,55213,2010,science
+homo deus a history of tomorrow kindle edition,yuval noah harari,4.22,204342,2015,science
+the structure of scientific revolutions paperback,thomas s. kuhn,4.02,24706,1962,science
+the blind watchmaker why the evidence of evolution reveals a universe without design paperback,richard dawkins,4.08,36708,1986,science
+chaos making a new science paperback,james gleick,4.03,35408,1987,science
+the universe in a nutshell hardcover,stephen hawking,4.18,38831,2001,science
+gdel escher bach an eternal golden braid paperback,douglas r. hofstadter,4.28,46521,1979,science
+pale blue dot a vision of the human future in space paperback,carl sagan,4.31,33574,1994,science
+brief answers to the big questions hardcover,stephen hawking,4.30,53951,2018,science
+physics of the impossible hardcover,michio kaku,4.08,36482,2008,science
+i contain multitudes the microbes within us and a grander view of life hardcover,ed yong,4.15,20190,2016,science
+bad science paperback,ben goldacre,4.06,40938,2008,science
+the body a guide for occupants hardcover,bill bryson,4.31,62150,2019,science
+death by black hole and other cosmic quandaries paperback,neil degrasse tyson,4.09,28892,2006,science
+bonk the curious coupling of science and sex paperback,mary roach,3.84,55546,2008,science
+genome the autobiography of a species in 23 chapters paperback,matt ridley,4.05,25111,1999,science
+a universe from nothing why there is something rather than nothing hardcover,lawrence m. krauss,3.93,26803,2012,science
+the hot zone the terrifying true story of the origins of the ebola virus paperback,richard   preston,4.13,105704,1994,science
+your inner fish a journey into the 35billionyear history of the human body hardcover,neil shubin,4.02,23634,2008,science
+the hidden life of trees what they feel how they communicate  discoveries from a secret world hardcover,peter wohlleben,4.05,55310,2015,science
+six easy pieces essentials of physics by its most brilliant teacher paperback,richard p. feynman,4.21,24170,1994,science
+longitude the true story of a lone genius who solved the greatest scientific problem of his time hardcover,dava sobel,3.96,66443,1995,science
+lab girl hardcover,hope jahren,3.97,62222,2016,science
+the ancestors tale a pilgrimage to the dawn of evolution paperback,richard dawkins,4.14,25884,2004,science
