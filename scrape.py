@@ -42,11 +42,8 @@ for genre in genres:
             # Extract published year from meta data.
             year = re.sub("[a-zA-z]","",stripped_meta_data[2])
 
-
             # Add book to the genre books
             genre_books.append([title,author,avg_rating,rating,year,genre.lower()])
-
-    all_books.append(genre_books)
 
     # Write the collect genre books into a csv file
     with open(f"{genre.lower()}.csv","w", newline="",encoding="utf-8") as f:
